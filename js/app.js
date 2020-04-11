@@ -65,7 +65,7 @@
     
 
 
-    //Shuffle funtion - when the game restarts it shuffle the cards.
+    //Shuffle funtion - when the game restarts it shuffle the cards. 
     (function shuffle() {
       cards.forEach(card => {
         let randomPos = Math.floor(Math.random() * 12);

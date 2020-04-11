@@ -27,8 +27,11 @@ After that, I would move onto my javascript folder to make sure all the function
 
 ## Things to revist
 
-1: Add different levels - such as a side button that adds more cards.
-2: A restart function
+1: Add different level tiers - such as a side button that adds more cards.
+
+2: A restart button function
+
+3: Adding a bot to play with that will select a card randomly
 
 ## Challenges: 
 
