@@ -1,6 +1,6 @@
-# ApplicationName: Card Matching Game: Futbol Edition
+## Card Matching Game: Futbol Edition
 
-
+## Github page - https://earias90.github.io/
 
 ## Game Objective: 
 
@@ -14,6 +14,7 @@ The objective is to pick a card and find its match. If the matching card is not 
     - HTML
     - Javascript 
     - CSS 
+    - Vanilla JQuery
 
 
 
