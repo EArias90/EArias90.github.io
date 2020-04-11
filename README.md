@@ -34,3 +34,8 @@ After that, I would move onto my javascript folder to make sure all the function
 
 Getting started was the biggest challenge. I didn't know where to begin when it came to the layout. I didn't want to make a huge game as my first, even though, I would have liked to. 
 
+
+## Resources:
+
+1) shuffle feature: https://stackabuse.com/javascripts-immediately-invoked-function-expressions/
+

@@ -1,7 +1,7 @@
     const cards = document.querySelectorAll('.memory-card');
 
     let hasFlippedCard = false;
-    //this will lock the board until the card are finished 'unflipping'
+    //this will lock the board until the card are finished 'flipping'
     let lockboard = false;
     let firstCard, secondCard;
     
@@ -57,7 +57,7 @@
     
 
 
-
+//
     function resetBoard() {
       [hasFlippedCard, lockboard] = [false, false];
       [firstCard, secondCard] = [null, null];
